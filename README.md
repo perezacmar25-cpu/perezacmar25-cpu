@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/perezacmar25-cpu/perezacmar25-cpu/blob/output/github-contribution-grid-snake.svg?raw=true" alt="snake animation" />
 </p>
 
 <p align="center">
