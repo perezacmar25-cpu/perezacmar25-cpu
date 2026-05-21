@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/perezacmar25-cpu/perezacmar25-cpu/blob/output/github-snake-dark.svg?raw=true" alt="snake animation" />
+  <img src="https://github.com/perezacmar25-cpu/perezacmar25-cpu/blob/output/github-snake-light.svg?raw=true" alt="snake animation" />
 </p>
 
 <p align="center">
