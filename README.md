@@ -19,3 +19,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-Tu_Nombre-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
+
+![Snake animation](https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake.svg)
