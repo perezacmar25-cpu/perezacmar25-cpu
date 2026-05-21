@@ -14,10 +14,13 @@
   <a href="https://github.com/TU_USUARIO">
     <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   </a> 
+
+  <p align="center">
+  <img src="https://github.com/perezacmar25-cpu/perezacmar25-cpu/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
   
   <a href="https://www.linkedin.com/in/TU_LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-Tu_Nombre-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
-![Snake animation](https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake.svg)
